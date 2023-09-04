@@ -1,0 +1,73 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "Bag": {
+    "Order": 0
+  },
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 0.53,
+    "r": 0.118
+  },
+  "ContainedObjects_order": [
+    "Fitnessmarker.8b93fd",
+    "Fitnessmarker.1820ff",
+    "Fitnessmarker.a75045",
+    "Fitnessmarker.b3eed8",
+    "Fitnessmarker.6d9cb3",
+    "Fitnessmarker.61c04f",
+    "Fitnessmarker.e0bcfb",
+    "Fitnessmarker.852750",
+    "Fitnessmarker.359e61",
+    "Fitnessmarker.49e49f",
+    "Fitnessmarker.b53e11",
+    "Fitnessmarker.0f1482",
+    "Fitnessmarker.bd4ecf",
+    "Fitnessmarker.01ac38",
+    "Fitnessmarker.281903",
+    "Fitnessmarker.433214",
+    "Fitnessmarker.867057",
+    "Fitnessmarker.261c32",
+    "Fitnessmarker.dece57",
+    "Fitnessmarker.253a0f"
+  ],
+  "ContainedObjects_path": "Fitnessmarkers.76bbdc",
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "76bbdc",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MaterialIndex": -1,
+  "MeasureMovement": false,
+  "MeshIndex": -1,
+  "Name": "Bag",
+  "Nickname": "Fitness markers",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 6.95,
+    "posY": 9.447,
+    "posZ": -11.033,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

@@ -1,0 +1,116 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ChildObjects": [
+    {
+      "AltLookAngle": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Autoraise": true,
+      "ColorDiffuse": {
+        "b": 1,
+        "g": 1,
+        "r": 1
+      },
+      "CustomImage": {
+        "CustomToken": {
+          "MergeDistancePixels": 5,
+          "Stackable": false,
+          "StandUp": false,
+          "Thickness": 0.2
+        },
+        "ImageScalar": 1,
+        "ImageSecondaryURL": "",
+        "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1862803200769547910/97C2BCE727F608601D98B6714822DFE075C1EEA5/",
+        "WidthScale": 0
+      },
+      "Description": "",
+      "DragSelectable": true,
+      "GMNotes": "",
+      "GUID": "17f1bb",
+      "Grid": true,
+      "GridProjection": false,
+      "Hands": false,
+      "HideWhenFaceDown": false,
+      "IgnoreFoW": false,
+      "LayoutGroupSortIndex": 0,
+      "Locked": false,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "MeasureMovement": false,
+      "Name": "Custom_Token",
+      "Nickname": "",
+      "Snap": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "Transform": {
+        "posX": -0.009753284,
+        "posY": -0.199996471,
+        "posZ": 0.005806885,
+        "rotX": 0.0000531537335,
+        "rotY": 359.982483,
+        "rotZ": 180,
+        "scaleX": 0.9999999,
+        "scaleY": 1,
+        "scaleZ": 1
+      },
+      "Value": 0,
+      "XmlUI": ""
+    }
+  ],
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomImage": {
+    "CustomToken": {
+      "MergeDistancePixels": 5,
+      "Stackable": false,
+      "StandUp": false,
+      "Thickness": 0.2
+    },
+    "ImageScalar": 1,
+    "ImageSecondaryURL": "",
+    "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1862803200769541220/11AFB5369947243BDC1584796EF836A7276269E0/",
+    "WidthScale": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "ad4fa8",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Token",
+  "Nickname": "",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 10.393,
+    "posY": 12.984,
+    "posZ": -15.298,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 0.28,
+    "scaleY": 1,
+    "scaleZ": 0.28
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

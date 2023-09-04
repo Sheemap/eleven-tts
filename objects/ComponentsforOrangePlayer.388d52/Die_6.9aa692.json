@@ -1,0 +1,96 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.113,
+    "g": 0.392,
+    "r": 0.956
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "9aa692",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MaterialIndex": 0,
+  "MeasureMovement": false,
+  "Name": "Die_6",
+  "Nickname": "",
+  "RotationValues": [
+    {
+      "Rotation": {
+        "x": -90,
+        "y": 0,
+        "z": 0
+      },
+      "Value": "1"
+    },
+    {
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Value": "2"
+    },
+    {
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": -90
+      },
+      "Value": "3"
+    },
+    {
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 90
+      },
+      "Value": "4"
+    },
+    {
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": -180
+      },
+      "Value": "5"
+    },
+    {
+      "Rotation": {
+        "x": 90,
+        "y": 0,
+        "z": 0
+      },
+      "Value": "6"
+    }
+  ],
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 31.913,
+    "posY": 11.897,
+    "posZ": -3.057,
+    "rotX": 89,
+    "rotY": 306,
+    "rotZ": 307,
+    "scaleX": 0.83,
+    "scaleY": 0.83,
+    "scaleZ": 0.83
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

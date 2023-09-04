@@ -1,0 +1,116 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ChildObjects": [
+    {
+      "AltLookAngle": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Autoraise": true,
+      "ColorDiffuse": {
+        "b": 1,
+        "g": 1,
+        "r": 1
+      },
+      "CustomImage": {
+        "CustomToken": {
+          "MergeDistancePixels": 5,
+          "Stackable": false,
+          "StandUp": false,
+          "Thickness": 0.1
+        },
+        "ImageScalar": 1,
+        "ImageSecondaryURL": "",
+        "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1872935296515341571/34D207774832ECB5BCB6EFEC2354DCB8F0605293/",
+        "WidthScale": 0
+      },
+      "Description": "",
+      "DragSelectable": true,
+      "GMNotes": "",
+      "GUID": "dea700",
+      "Grid": true,
+      "GridProjection": false,
+      "Hands": false,
+      "HideWhenFaceDown": false,
+      "IgnoreFoW": false,
+      "LayoutGroupSortIndex": 0,
+      "Locked": false,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "MeasureMovement": false,
+      "Name": "Custom_Token",
+      "Nickname": "",
+      "Snap": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "Transform": {
+        "posX": 0.0321951322,
+        "posY": -0.09999943,
+        "posZ": -0.0121449176,
+        "rotX": -0.0000629047,
+        "rotY": 0.00007812027,
+        "rotZ": 180.000015,
+        "scaleX": 1,
+        "scaleY": 1,
+        "scaleZ": 1
+      },
+      "Value": 0,
+      "XmlUI": ""
+    }
+  ],
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomImage": {
+    "CustomToken": {
+      "MergeDistancePixels": 5,
+      "Stackable": false,
+      "StandUp": false,
+      "Thickness": 0.1
+    },
+    "ImageScalar": 1,
+    "ImageSecondaryURL": "",
+    "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1872935296515341138/653786734381796C4B0E869EBA4DBF7436B3704D/",
+    "WidthScale": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "4afeba",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Token",
+  "Nickname": "Opponent Team marker",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 31.14,
+    "posY": 13.296,
+    "posZ": -18.72,
+    "rotX": 347,
+    "rotY": 0,
+    "rotZ": 344,
+    "scaleX": 0.23,
+    "scaleY": 1,
+    "scaleZ": 0.23
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

@@ -1,0 +1,152 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomImage": {
+    "CustomDice": {
+      "Type": 4
+    },
+    "ImageScalar": 1,
+    "ImageSecondaryURL": "",
+    "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1789640371717602796/D92EA4A9B2DCDE37B6F287C519FEC749FAAEFB4C/",
+    "WidthScale": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "df485c",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Dice",
+  "Nickname": "",
+  "RotationValues": [
+    {
+      "Rotation": {
+        "x": 27,
+        "y": 0,
+        "z": 72
+      },
+      "Value": "1"
+    },
+    {
+      "Rotation": {
+        "x": 27,
+        "y": 0,
+        "z": 144
+      },
+      "Value": "2"
+    },
+    {
+      "Rotation": {
+        "x": 27,
+        "y": 0,
+        "z": -72
+      },
+      "Value": "3"
+    },
+    {
+      "Rotation": {
+        "x": -27,
+        "y": 180,
+        "z": 180
+      },
+      "Value": "4"
+    },
+    {
+      "Rotation": {
+        "x": 90,
+        "y": 180,
+        "z": 0
+      },
+      "Value": "5"
+    },
+    {
+      "Rotation": {
+        "x": 27,
+        "y": 0,
+        "z": -144
+      },
+      "Value": "6"
+    },
+    {
+      "Rotation": {
+        "x": -27,
+        "y": 180,
+        "z": 36
+      },
+      "Value": "7"
+    },
+    {
+      "Rotation": {
+        "x": -90,
+        "y": 180,
+        "z": 0
+      },
+      "Value": "8"
+    },
+    {
+      "Rotation": {
+        "x": 27,
+        "y": 0,
+        "z": 0
+      },
+      "Value": "9"
+    },
+    {
+      "Rotation": {
+        "x": -27,
+        "y": 180,
+        "z": 108
+      },
+      "Value": "10"
+    },
+    {
+      "Rotation": {
+        "x": -27,
+        "y": 108,
+        "z": -36
+      },
+      "Value": "11"
+    },
+    {
+      "Rotation": {
+        "x": -27,
+        "y": 36,
+        "z": -108
+      },
+      "Value": "12"
+    }
+  ],
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 3.373,
+    "posY": 10.752,
+    "posZ": 8.832,
+    "rotX": 333,
+    "rotY": 216,
+    "rotZ": 252,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

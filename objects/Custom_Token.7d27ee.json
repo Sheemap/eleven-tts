@@ -1,0 +1,122 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "AttachedSnapPoints": [
+    {
+      "Position": {
+        "x": 0.085,
+        "y": 0.15,
+        "z": -1.44
+      }
+    },
+    {
+      "Position": {
+        "x": -1.271,
+        "y": 0.15,
+        "z": -1.484
+      }
+    },
+    {
+      "Position": {
+        "x": -1.279,
+        "y": 0.15,
+        "z": -0.483
+      }
+    },
+    {
+      "Position": {
+        "x": 0.032,
+        "y": 0.15,
+        "z": 0.12
+      }
+    },
+    {
+      "Position": {
+        "x": 1.534,
+        "y": 0.15,
+        "z": -1.113
+      }
+    },
+    {
+      "Position": {
+        "x": 1.54,
+        "y": 0.15,
+        "z": -1.296
+      }
+    },
+    {
+      "Position": {
+        "x": 1.539,
+        "y": 0.15,
+        "z": -1.479
+      }
+    },
+    {
+      "Position": {
+        "x": 1.535,
+        "y": 0.15,
+        "z": -1.667
+      }
+    },
+    {
+      "Position": {
+        "x": 1.776,
+        "y": 0.15,
+        "z": -1.407
+      }
+    }
+  ],
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomImage": {
+    "CustomToken": {
+      "MergeDistancePixels": 15,
+      "Stackable": false,
+      "StandUp": false,
+      "Thickness": 0.3
+    },
+    "ImageScalar": 1,
+    "ImageSecondaryURL": "",
+    "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1789639993334332203/B117A093AB8B41F07E3917BE52666C85B48F350B/",
+    "WidthScale": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "7d27ee",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Token",
+  "Nickname": "",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 12.264,
+    "posY": 9.782,
+    "posZ": 16.311,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 2.3,
+    "scaleY": 1,
+    "scaleZ": 2.3
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

@@ -1,0 +1,403 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "AttachedSnapPoints": [
+    {
+      "Position": {
+        "x": -0.809,
+        "y": 0.15,
+        "z": 0.494
+      }
+    },
+    {
+      "Position": {
+        "x": -0.286,
+        "y": 0.15,
+        "z": 0.143
+      }
+    },
+    {
+      "Position": {
+        "x": -0.811,
+        "y": 0.15,
+        "z": 0.143
+      }
+    },
+    {
+      "Position": {
+        "x": -1.071,
+        "y": 0.15,
+        "z": 0.144
+      }
+    },
+    {
+      "Position": {
+        "x": -0.026,
+        "y": 0.15,
+        "z": 0.142
+      }
+    },
+    {
+      "Position": {
+        "x": -0.548,
+        "y": 0.15,
+        "z": 0.14
+      }
+    },
+    {
+      "Position": {
+        "x": -0.027,
+        "y": 0.15,
+        "z": 0.495
+      }
+    },
+    {
+      "Position": {
+        "x": -0.287,
+        "y": 0.15,
+        "z": 0.499
+      }
+    },
+    {
+      "Position": {
+        "x": -0.55,
+        "y": 0.15,
+        "z": 0.497
+      }
+    },
+    {
+      "Position": {
+        "x": -1.071,
+        "y": 0.15,
+        "z": 0.497
+      }
+    },
+    {
+      "Position": {
+        "x": -0.027,
+        "y": 0.15,
+        "z": 0.848
+      }
+    },
+    {
+      "Position": {
+        "x": -0.29,
+        "y": 0.15,
+        "z": 0.849
+      }
+    },
+    {
+      "Position": {
+        "x": -0.548,
+        "y": 0.15,
+        "z": 0.85
+      }
+    },
+    {
+      "Position": {
+        "x": -0.811,
+        "y": 0.15,
+        "z": 0.848
+      }
+    },
+    {
+      "Position": {
+        "x": -1.071,
+        "y": 0.15,
+        "z": 0.846
+      }
+    },
+    {
+      "Position": {
+        "x": -0.028,
+        "y": 0.15,
+        "z": 1.199
+      }
+    },
+    {
+      "Position": {
+        "x": -0.285,
+        "y": 0.15,
+        "z": 1.199
+      }
+    },
+    {
+      "Position": {
+        "x": -0.551,
+        "y": 0.15,
+        "z": 1.2
+      }
+    },
+    {
+      "Position": {
+        "x": -0.811,
+        "y": 0.15,
+        "z": 1.201
+      }
+    },
+    {
+      "Position": {
+        "x": -1.072,
+        "y": 0.15,
+        "z": 1.198
+      }
+    },
+    {
+      "Position": {
+        "x": 1.632,
+        "y": 0.15,
+        "z": 1.049
+      }
+    },
+    {
+      "Position": {
+        "x": 1.627,
+        "y": 0.15,
+        "z": 0.926
+      }
+    },
+    {
+      "Position": {
+        "x": 1.624,
+        "y": 0.15,
+        "z": 0.801
+      }
+    },
+    {
+      "Position": {
+        "x": 1.625,
+        "y": 0.15,
+        "z": 0.673
+      }
+    },
+    {
+      "Position": {
+        "x": 1.625,
+        "y": 0.15,
+        "z": 0.549
+      }
+    },
+    {
+      "Position": {
+        "x": 1.623,
+        "y": 0.15,
+        "z": 0.429
+      }
+    },
+    {
+      "Position": {
+        "x": 1.626,
+        "y": 0.15,
+        "z": 0.303
+      }
+    },
+    {
+      "Position": {
+        "x": 1.624,
+        "y": 0.15,
+        "z": 0.176
+      }
+    },
+    {
+      "Position": {
+        "x": 1.389,
+        "y": 0.15,
+        "z": 0.183
+      }
+    },
+    {
+      "Position": {
+        "x": 1.387,
+        "y": 0.15,
+        "z": 0.306
+      }
+    },
+    {
+      "Position": {
+        "x": 1.388,
+        "y": 0.15,
+        "z": 0.429
+      }
+    },
+    {
+      "Position": {
+        "x": 1.389,
+        "y": 0.15,
+        "z": 0.553
+      }
+    },
+    {
+      "Position": {
+        "x": 1.388,
+        "y": 0.15,
+        "z": 0.677
+      }
+    },
+    {
+      "Position": {
+        "x": 1.386,
+        "y": 0.15,
+        "z": 0.798
+      }
+    },
+    {
+      "Position": {
+        "x": 1.385,
+        "y": 0.15,
+        "z": 0.922
+      }
+    },
+    {
+      "Position": {
+        "x": 1.39,
+        "y": 0.15,
+        "z": 1.049
+      }
+    },
+    {
+      "Position": {
+        "x": 1.147,
+        "y": 0.15,
+        "z": 0.179
+      }
+    },
+    {
+      "Position": {
+        "x": 1.147,
+        "y": 0.15,
+        "z": 0.303
+      }
+    },
+    {
+      "Position": {
+        "x": 1.148,
+        "y": 0.15,
+        "z": 0.431
+      }
+    },
+    {
+      "Position": {
+        "x": 1.148,
+        "y": 0.15,
+        "z": 0.543
+      }
+    },
+    {
+      "Position": {
+        "x": 1.146,
+        "y": 0.15,
+        "z": 0.669
+      }
+    },
+    {
+      "Position": {
+        "x": 1.147,
+        "y": 0.15,
+        "z": 0.799
+      }
+    },
+    {
+      "Position": {
+        "x": 1.149,
+        "y": 0.15,
+        "z": 0.924
+      }
+    },
+    {
+      "Position": {
+        "x": 1.146,
+        "y": 0.15,
+        "z": 1.049
+      }
+    },
+    {
+      "Position": {
+        "x": 1.041,
+        "y": 0.15,
+        "z": -0.766
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "Position": {
+        "x": -0.003,
+        "y": 0.15,
+        "z": -0.764
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "Position": {
+        "x": -1.046,
+        "y": 0.15,
+        "z": -0.768
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    }
+  ],
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomImage": {
+    "CustomToken": {
+      "MergeDistancePixels": 15,
+      "Stackable": false,
+      "StandUp": false,
+      "Thickness": 0.300000161
+    },
+    "ImageScalar": 1,
+    "ImageSecondaryURL": "",
+    "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1789639993334334445/9D6F9B1825F3E304E910415C242FC3049588C471/",
+    "WidthScale": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "389f0a",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Token",
+  "Nickname": "",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 3.881,
+    "posY": 9.782,
+    "posZ": 16.296,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 2.3,
+    "scaleY": 1,
+    "scaleZ": 2.3
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

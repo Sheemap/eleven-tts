@@ -1,0 +1,16 @@
+function bruh()
+    print('clicked')
+end
+
+print(self.getBounds().size)
+
+self.createButton({click_function="bruh",label='Setup', position={
+    x=0, y=10.5, z=-16.5
+},
+scale={
+    x=4,
+    y=1,
+    z=10,
+},
+width=300
+})

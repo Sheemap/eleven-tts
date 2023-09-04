@@ -1,0 +1,73 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "Bag": {
+    "Order": 0
+  },
+  "ColorDiffuse": {
+    "b": 0.094,
+    "g": 0.1,
+    "r": 0.856
+  },
+  "ContainedObjects_order": [
+    "FanBasemarker.9edee4",
+    "FanBasemarker.c1cad2",
+    "FanBasemarker.e9b4fa",
+    "FanBasemarker.0f4760",
+    "FanBasemarker.92f17d",
+    "FanBasemarker.1edad6",
+    "FanBasemarker.4ae0ef",
+    "FanBasemarker.ab7fa3",
+    "FanBasemarker.26712d",
+    "FanBasemarker.86d844",
+    "FanBasemarker.ab7fa3",
+    "FanBasemarker.ab7fa3",
+    "FanBasemarker.fa3228",
+    "FanBasemarker.67e06d",
+    "FanBasemarker.4ea28f",
+    "FanBasemarker.6578b6",
+    "FanBasemarker.ab7fa3",
+    "FanBasemarker.ab7fa3",
+    "FanBasemarker.0e8a0d",
+    "FanBasemarker.31624b"
+  ],
+  "ContainedObjects_path": "FanBasemarkers.fd26ef",
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "fd26ef",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MaterialIndex": -1,
+  "MeasureMovement": false,
+  "MeshIndex": -1,
+  "Name": "Bag",
+  "Nickname": "Fan Base markers",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 12.545,
+    "posY": 9.447,
+    "posZ": -11.204,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

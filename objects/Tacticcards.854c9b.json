@@ -1,0 +1,78 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "ContainedObjects_order": [
+    "Card.17469d",
+    "Card.0ebf4b",
+    "Card.03deab",
+    "Card.451fe0",
+    "Card.4239ff",
+    "Card.d61b40",
+    "Card.b58c21",
+    "Card.731cda"
+  ],
+  "ContainedObjects_path": "Tacticcards.854c9b",
+  "CustomDeck": {
+    "11": {
+      "BackIsHidden": false,
+      "BackURL": "http://cloud-3.steamusercontent.com/ugc/1808779657393311602/667C18C349246A171276A36CB72CDFFB6793B2DE/",
+      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1808779657393310975/7167484FC4810354306BDD536DF54BBB7FA057F1/",
+      "NumHeight": 7,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": false
+    }
+  },
+  "DeckIDs": [
+    1104,
+    1105,
+    1106,
+    1107,
+    1108,
+    1109,
+    1110,
+    1111
+  ],
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "854c9b",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "DeckCustom",
+  "Nickname": "Tactic cards",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 3.433,
+    "posY": 10.389,
+    "posZ": 5.948,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 180,
+    "scaleX": 0.53,
+    "scaleY": 1,
+    "scaleZ": 0.53
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

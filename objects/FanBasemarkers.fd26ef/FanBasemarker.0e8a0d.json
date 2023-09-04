@@ -1,0 +1,55 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.094,
+    "g": 0.1,
+    "r": 0.856
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "",
+    "MaterialIndex": 1,
+    "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1323446073055441742/B85EE9E426FCF3DC65F76F7E8049A24631F1E346/",
+    "NormalURL": "",
+    "TypeIndex": 1
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "0e8a0d",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Fan Base marker",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 1.443,
+    "posY": 11.857,
+    "posZ": -16.202,
+    "rotX": 358,
+    "rotY": 91,
+    "rotZ": 346,
+    "scaleX": 0.68,
+    "scaleY": 0.68,
+    "scaleZ": 0.68
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

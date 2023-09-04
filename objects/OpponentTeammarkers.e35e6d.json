@@ -1,0 +1,61 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "Bag": {
+    "Order": 0
+  },
+  "ColorDiffuse": {
+    "b": 0,
+    "g": 0.36652,
+    "r": 0.70588
+  },
+  "ContainedObjects_order": [
+    "OpponentTeammarker.ccc3da",
+    "OpponentTeammarker.13833c",
+    "OpponentTeammarker.161ee9",
+    "OpponentTeammarker.c0ce7c",
+    "OpponentTeammarker.4dc5aa",
+    "OpponentTeammarker.dde16d",
+    "OpponentTeammarker.5f6c45",
+    "OpponentTeammarker.ccafc5"
+  ],
+  "ContainedObjects_path": "OpponentTeammarkers.e35e6d",
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "e35e6d",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MaterialIndex": -1,
+  "MeasureMovement": false,
+  "MeshIndex": -1,
+  "Name": "Bag",
+  "Nickname": "Opponent Team markers",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 35.65,
+    "posY": 9.535,
+    "posZ": -13.95,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 0.53,
+    "scaleY": 0.53,
+    "scaleZ": 0.53
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

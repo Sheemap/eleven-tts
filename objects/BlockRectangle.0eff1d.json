@@ -1,0 +1,45 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.80672,
+    "g": 0.02413,
+    "r": 0.55604
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "0eff1d",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "BlockRectangle",
+  "Nickname": "",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": -15.805,
+    "posY": 9.832,
+    "posZ": 11.366,
+    "rotX": 0,
+    "rotY": 270,
+    "rotZ": 180,
+    "scaleX": 0.4,
+    "scaleY": 0.4,
+    "scaleZ": 0.4
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

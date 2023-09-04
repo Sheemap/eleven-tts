@@ -1,0 +1,104 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomImage": {
+    "CustomDice": {
+      "Type": 1
+    },
+    "ImageScalar": 1,
+    "ImageSecondaryURL": "",
+    "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1789640371717600980/612A2A0A30C19473136D5875DF4D4A98AEC5491D/",
+    "WidthScale": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "1cb813",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Dice",
+  "Nickname": "Opponent die",
+  "RotationValues": [
+    {
+      "Rotation": {
+        "x": -90,
+        "y": 0,
+        "z": 0
+      },
+      "Value": "1"
+    },
+    {
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Value": "2"
+    },
+    {
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": -90
+      },
+      "Value": "3"
+    },
+    {
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 90
+      },
+      "Value": "4"
+    },
+    {
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": -180
+      },
+      "Value": "5"
+    },
+    {
+      "Rotation": {
+        "x": 90,
+        "y": 0,
+        "z": 0
+      },
+      "Value": "6"
+    }
+  ],
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 3.36,
+    "posY": 10.66,
+    "posZ": 7.702,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

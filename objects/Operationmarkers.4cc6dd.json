@@ -1,0 +1,73 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "Bag": {
+    "Order": 0
+  },
+  "ColorDiffuse": {
+    "b": 0.168,
+    "g": 0.701,
+    "r": 0.192
+  },
+  "ContainedObjects_order": [
+    "Operationmarker.6cd8dc",
+    "Operationmarker.1820ff",
+    "Operationmarker.a75045",
+    "Operationmarker.64ba33",
+    "Operationmarker.cb40c2",
+    "Operationmarker.281a80",
+    "Operationmarker.b6f288",
+    "Operationmarker.020033",
+    "Operationmarker.a0642a",
+    "Operationmarker.8a7082",
+    "Operationmarker.e76f98",
+    "Operationmarker.ecd70e",
+    "Operationmarker.781778",
+    "Operationmarker.384240",
+    "Operationmarker.f1e510",
+    "Operationmarker.c349ac",
+    "Operationmarker.642fb2",
+    "Operationmarker.ff7de3",
+    "Operationmarker.fb534e",
+    "Operationmarker.8eb8eb"
+  ],
+  "ContainedObjects_path": "Operationmarkers.4cc6dd",
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "4cc6dd",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MaterialIndex": -1,
+  "MeasureMovement": false,
+  "MeshIndex": -1,
+  "Name": "Bag",
+  "Nickname": "Operation markers",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 9.787,
+    "posY": 9.447,
+    "posZ": -11.072,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

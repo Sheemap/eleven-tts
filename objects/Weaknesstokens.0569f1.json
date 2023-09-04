@@ -1,0 +1,194 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "Bag": {
+    "Order": 0
+  },
+  "ChildObjects": [
+    {
+      "AltLookAngle": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Autoraise": true,
+      "ChildObjects": [
+        {
+          "AltLookAngle": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "Autoraise": true,
+          "ColorDiffuse": {
+            "b": 1,
+            "g": 1,
+            "r": 1
+          },
+          "CustomImage": {
+            "CustomToken": {
+              "MergeDistancePixels": 15,
+              "Stackable": false,
+              "StandUp": false,
+              "Thickness": 0.49999997
+            },
+            "ImageScalar": 1,
+            "ImageSecondaryURL": "",
+            "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1789639993334471908/E73B5BDD29DE1CD3945DA44A1089A0135A17F188/",
+            "WidthScale": 0
+          },
+          "Description": "",
+          "DragSelectable": true,
+          "GMNotes": "",
+          "GUID": "c869cc",
+          "Grid": true,
+          "GridProjection": false,
+          "Hands": false,
+          "HideWhenFaceDown": false,
+          "IgnoreFoW": false,
+          "LayoutGroupSortIndex": 0,
+          "Locked": false,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "MeasureMovement": false,
+          "Name": "Custom_Token",
+          "Nickname": "",
+          "Snap": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "Transform": {
+            "posX": -0.09648562,
+            "posY": 0.497499526,
+            "posZ": -0.0375081338,
+            "rotX": 0.000028301256,
+            "rotY": 0.000178598741,
+            "rotZ": 179.999969,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+          },
+          "Value": 0,
+          "XmlUI": ""
+        }
+      ],
+      "ColorDiffuse": {
+        "b": 1,
+        "g": 1,
+        "r": 1
+      },
+      "CustomImage": {
+        "CustomToken": {
+          "MergeDistancePixels": 15,
+          "Stackable": false,
+          "StandUp": false,
+          "Thickness": 0.495
+        },
+        "ImageScalar": 1,
+        "ImageSecondaryURL": "",
+        "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1789639993334468998/E1ECA296B4DC3F010B149A14FA88B6F1EDA6EEC7/",
+        "WidthScale": 0
+      },
+      "Description": "",
+      "DragSelectable": true,
+      "GMNotes": "",
+      "GUID": "1f99f9",
+      "Grid": true,
+      "GridProjection": false,
+      "Hands": false,
+      "HideWhenFaceDown": false,
+      "IgnoreFoW": false,
+      "LayoutGroupSortIndex": 0,
+      "Locked": true,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "MeasureMovement": false,
+      "Name": "Custom_Token",
+      "Nickname": "",
+      "Snap": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "Transform": {
+        "posX": 0.00674719643,
+        "posY": -0.1967833,
+        "posZ": 0.008064403,
+        "rotX": 0,
+        "rotY": 0,
+        "rotZ": 9.67367e-14,
+        "scaleX": 0.33305946,
+        "scaleY": 1.22509217,
+        "scaleZ": 0.238917232
+      },
+      "Value": 0,
+      "XmlUI": ""
+    }
+  ],
+  "ColorDiffuse": {
+    "a": 0,
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "ContainedObjects_order": [
+    "Weaknesstoken.52d5a9",
+    "Weaknesstoken.fb1d7c",
+    "Weaknesstoken.c00ca2",
+    "Weaknesstoken.c56e53",
+    "Weaknesstoken.b71f24",
+    "Weaknesstoken.024ac8",
+    "Weaknesstoken.e076eb",
+    "Weaknesstoken.0a33c6",
+    "Weaknesstoken.07a8ac",
+    "Weaknesstoken.c7d139",
+    "Weaknesstoken.ab393a",
+    "Weaknesstoken.23f276"
+  ],
+  "ContainedObjects_path": "Weaknesstokens.0569f1",
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "",
+    "MaterialIndex": 0,
+    "MeshURL": "http://cloud-3.steamusercontent.com/ugc/1666858152071990826/9AD455F2CBAEC01B2CBCDDB8B6DC4CE48D14B545/",
+    "NormalURL": "",
+    "TypeIndex": 6
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "0569f1",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MaterialIndex": -1,
+  "MeasureMovement": false,
+  "MeshIndex": -1,
+  "Name": "Custom_Model_Bag",
+  "Nickname": "Weakness tokens",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 1.96,
+    "posY": 9.728,
+    "posZ": -11.193,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 2,
+    "scaleY": 0.19,
+    "scaleZ": 2.78
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

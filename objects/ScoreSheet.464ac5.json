@@ -1,0 +1,45 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "Description": "League Table\nVP Tokens\nStaff\nStadium Infrastructure\nOffice\nSuspension tokens\nTOTAL:\n\n[i](right-click and edit \"Description\" to note your score)[/i]",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "464ac5",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Notecard",
+  "Nickname": "Score Sheet",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": -14.109,
+    "posY": 9.702,
+    "posZ": 5.544,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

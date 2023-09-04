@@ -1,0 +1,169 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "AttachedSnapPoints": [
+    {
+      "Position": {
+        "x": 1.722,
+        "y": 0.15,
+        "z": -1.324
+      }
+    },
+    {
+      "Position": {
+        "x": 1.593,
+        "y": 0.15,
+        "z": -1.322
+      }
+    },
+    {
+      "Position": {
+        "x": 1.467,
+        "y": 0.15,
+        "z": -1.32
+      }
+    },
+    {
+      "Position": {
+        "x": 1.326,
+        "y": 0.15,
+        "z": -1.321
+      }
+    },
+    {
+      "Position": {
+        "x": 1.194,
+        "y": 0.15,
+        "z": -1.328
+      }
+    },
+    {
+      "Position": {
+        "x": 1.062,
+        "y": 0.15,
+        "z": -1.323
+      }
+    },
+    {
+      "Position": {
+        "x": 0.924,
+        "y": 0.15,
+        "z": -1.322
+      }
+    },
+    {
+      "Position": {
+        "x": 1.719,
+        "y": 0.15,
+        "z": -1.088
+      }
+    },
+    {
+      "Position": {
+        "x": 1.591,
+        "y": 0.15,
+        "z": -1.087
+      }
+    },
+    {
+      "Position": {
+        "x": 1.47,
+        "y": 0.15,
+        "z": -1.083
+      }
+    },
+    {
+      "Position": {
+        "x": 1.326,
+        "y": 0.15,
+        "z": -1.086
+      }
+    },
+    {
+      "Position": {
+        "x": 1.191,
+        "y": 0.15,
+        "z": -1.087
+      }
+    },
+    {
+      "Position": {
+        "x": 1.057,
+        "y": 0.15,
+        "z": -1.084
+      }
+    },
+    {
+      "Position": {
+        "x": 0.921,
+        "y": 0.15,
+        "z": -1.088
+      }
+    },
+    {
+      "Position": {
+        "x": 1.292,
+        "y": 0.15,
+        "z": -0.239
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 180
+      }
+    }
+  ],
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomImage": {
+    "CustomToken": {
+      "MergeDistancePixels": 15,
+      "Stackable": false,
+      "StandUp": false,
+      "Thickness": 0.299999863
+    },
+    "ImageScalar": 1,
+    "ImageSecondaryURL": "",
+    "ImageURL": "http://cloud-3.steamusercontent.com/ugc/1789639993334330291/7F92EEFA65DCE1E6A2822926DF4064B836F54032/",
+    "WidthScale": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "82496a",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Token",
+  "Nickname": "",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": -4.499,
+    "posY": 9.782,
+    "posZ": 16.194,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 2.3,
+    "scaleY": 1,
+    "scaleZ": 2.3
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

@@ -1,0 +1,74 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "ContainedObjects_order": [
+    "Card.f7c785",
+    "Card.b7e185",
+    "Card.91330a",
+    "Card.fc2023",
+    "Card.d9998c",
+    "Card.5c7872"
+  ],
+  "ContainedObjects_path": "Staffcards.6abcb4",
+  "CustomDeck": {
+    "8": {
+      "BackIsHidden": false,
+      "BackURL": "http://cloud-3.steamusercontent.com/ugc/1808779657393039068/40A456DF56A27C3C533EFFCD4940584A3333F63A/",
+      "FaceURL": "http://cloud-3.steamusercontent.com/ugc/1808779657393036224/76CC5C72CF2E5486C567C57CE65F31858EDC8717/",
+      "NumHeight": 7,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": false
+    }
+  },
+  "DeckIDs": [
+    835,
+    827,
+    824,
+    820,
+    810,
+    801
+  ],
+  "Description": "Used in games for 4+ Players.",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "6abcb4",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Deck",
+  "Nickname": "Staff cards",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 13,
+    "posY": 10.696,
+    "posZ": -16.603,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}
